@@ -6,8 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^2.29.3",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "remark-html": "^15.0.1"
   }
 }
